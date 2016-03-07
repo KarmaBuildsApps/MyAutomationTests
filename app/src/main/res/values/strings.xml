@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Automation Tests</string>
+    <string name="login_user_name">User Name</string>
+    <string name="login_password">User Password</string>
+    <string name="login_bt_text">Login</string>
+    <string name="login_user_name_error">User name is invalid username </string>
+    <string name="login_password_error">Password is invalid password</string>
+    <string name="login_success_text">You are login successfully</string>
+</resources>
